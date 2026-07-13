@@ -17,6 +17,9 @@ main{
     background-color: #FFFFFF;
     font-size: 18px;
 }
+footer a{
+    color: #ADD8E6;
+}
 footer{
     background-color: #333333;
     color: white;
